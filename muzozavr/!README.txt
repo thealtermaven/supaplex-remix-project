@@ -13,3 +13,8 @@ level 081 of "The Supaplex Incident" / Levelset 10
 Can be solved without zonk cloning trick.
 07 Nov 2020
 
+002 "NOW DEAL WITH IT AGAIN!"
+kaizo of "NOW DEAL WITH IT!"
+level 033 of "The Promotek Incident"
+Watch your step.
+07 Nov 2020
