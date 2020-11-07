@@ -3,6 +3,12 @@ by Altermaven and Friends
 
 an Alchemystics Design Project
 
+LIST OF LEVELS CONTRIBUTED BY
+ALTERMAVEN OF ALCHEMYSTICS DESIGN
+
+kaizo means "rearranged"! this does not mean the
+levels are extremently difficult, but expect
+things to be extra tedious! IT'S A REMIX!
 ----------
 001. "LIGHT CHOPPING"
 kaizo of "GLITCH HOPPING"
