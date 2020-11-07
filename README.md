@@ -37,4 +37,5 @@ To open levelsets using Megaplex:
 
 Contributors:
 + alchemystics: Altermaven of Alchemystics Design
++ muzozavr: Muzozavr a.k.a. Mikerlimbo
 + More contributors will be listed as they become available
