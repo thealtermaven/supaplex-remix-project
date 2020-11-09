@@ -40,3 +40,9 @@ kaizo of "LETS NOT BYTE THE DUST?"
 level 045 of "Return to Promotek"
 RAM is not the only thing volatile.
 07 Nov 2020
+
+005 "Super Overproblematic"
+kaizo of "OVERPROBLEMATIC"
+level 004 of "Return to Promotek"
+Get shifty. Very shifty.
+08 Nov 2020
