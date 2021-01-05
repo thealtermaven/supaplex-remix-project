@@ -89,3 +89,14 @@ kaizo of "BOULDERDASH II"
 from The Supaplex Incident / Levelset 10
 mixed by Altermaven
 time limit: INF
+
+013. "OH NO? OH YES!!"
+kaizo of "OH NO.."
+from The Supaplex Incident / Levelset 10
+mixed by Altermaven
+time limit: INF
+
+014. "? HSADREDLUOB"
+inspired by various segments of Levelset 10
+produced by Altermaven
+time limit: INF
