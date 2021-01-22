@@ -100,3 +100,10 @@ time limit: INF
 inspired by various segments of Levelset 10
 produced by Altermaven
 time limit: INF
+
+015. "THIS IS SPARTA!"
+kaizo of "THIS IS MADNESS!"
+from "Return to Promotek" '20
+mixed by Altermaven
+I hope you brushed up on your snik dodges.
+time limit: INF
