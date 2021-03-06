@@ -113,3 +113,10 @@ kaizo of "DYING LESS SCHEMATIC?"
 from "The Promotek Incident"
 mixed by Altermaven
 time limit: INF
+
+017. "HUBRIS"
+kaizo of "DIABOLISM"/"MASOCHISM"
+from The Supaplex Incident / Levelset 10
+mixed by Altermaven
+Manage your sniks.
+time limit: INF
