@@ -46,3 +46,9 @@ kaizo of "OVERPROBLEMATIC"
 level 004 of "Return to Promotek"
 Get shifty. Very shifty.
 08 Nov 2020
+
+006 "RE-FUSE"
+kaizo of "OPEN FUSE"
+level 007 of "The Supaplex Incident" / Levelset 10
+Can you think like a rabbit?
+10 Apr 2021
