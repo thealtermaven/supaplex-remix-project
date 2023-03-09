@@ -52,3 +52,9 @@ kaizo of "OPEN FUSE"
 level 007 of "The Supaplex Incident" / Levelset 10
 Can you think like a rabbit?
 10 Apr 2021
+
+007 "Fragility"
+kaizo of "Fragility"
+level 094 of "The Promotek Incident"
+Rethink your intent.
+09 Mar 2022
